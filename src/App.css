@@ -165,3 +165,58 @@ align-items: center;
   .card-body .btn {
     display:inline-block;
   }
+  
+/* Contact Section */
+  .contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 5px;
+    margin-top: 30px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+
+/*  Styling footer */
+.linkd, .gh, .fb{
+  color:dodgerblue;
+  font-size: 40px;
+  text-decoration: none !important;
+  margin:0 10px;
+  margin: 20px;
+  height: 400px;
+  
+}
+
+.linkd:hover,
+.gh:hover,
+.fb:hover{
+  color:royalblue;
+  box-shadow: 2px 2px 5px #10042d;
+
+}

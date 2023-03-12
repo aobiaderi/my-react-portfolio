@@ -5,8 +5,7 @@ const Contact = () => {
     <div className="contact">
       <h2>Contact Me</h2>
       <p>
-        You can reach me via email at <a href="mailto:aobiaderi@yahoo.com">aobiaderi@yahoo.com</a>,
-        or by filling out the form below:
+        You can reach me via email at <a href="mailto:aobiaderi@yahoo.com">aobiaderi@yahoo.com</a> or by filling out the form below:
       </p>
       <form>
         <label>
