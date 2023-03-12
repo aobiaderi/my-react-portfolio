@@ -1,10 +1,7 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 
 function Project({ project }) {
-  useEffect(() => {
-    document.title = project.name;
-  }, [project]);
-
+  
   return (
     <div className="container-fluid">
       <div className="row d-flex justify-content-center">

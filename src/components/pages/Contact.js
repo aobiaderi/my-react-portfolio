@@ -25,7 +25,7 @@ const Contact = () => {
       <div className="container my-media">
         <div className="text-center">
           {/* Add media links and icons */}
-          <a className="linkd" href="#">
+          <a className="linkd" href="https://www.linkedin.com/in/obiaderi-agbonrofo-cert-cii-mp-mbcs-chartered-fcsi-138b08110/" target="_blank">
             <ion-icon name="logo-linkedin"></ion-icon>
           </a>
 
