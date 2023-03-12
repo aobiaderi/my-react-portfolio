@@ -71,3 +71,51 @@
   color: #fff !important;
   cursor:pointer
 }
+
+/* About Section */
+.about-me{
+  display: flex;
+}
+.about-me .btn1 {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Darker background on mouse-over */
+.about-me .btn1:hover {
+  background-color: RoyalBlue;
+}
+.about-me .my-image{
+  
+  border-radius: 50%;
+  height: 250px;   
+}
+
+#abt-1 {
+
+  font-size: 32px; 
+}
+.abt-section{
+  background-color: gray;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+
+#abt-2{
+  font-size: 18px;
+  text-align: justify;
+
+}
+.about-2,#abt-1 {
+  margin: 20px;
+  text-align: left;
+  color: #fff;
+}
