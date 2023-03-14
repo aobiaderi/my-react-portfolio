@@ -1,5 +1,5 @@
 import React from "react";
-
+import Obee1 from '../../assets/Obee1.jpg';
 function About() {
   return (
     // <div id="about" className = "about1">
@@ -29,7 +29,7 @@ function About() {
           </div>
           
           <div className="col-sm-12 col-md-3 col-lg-3"> 
-            <img className="my-image" src="./Obee1.jpg" alt="a photo of Obiaderi Agbonrofo"/>
+            <img className="my-image" src={Obee1} alt="a photo of Obiaderi Agbonrofo"/>
           </div>             
         </div>
       </div>    
