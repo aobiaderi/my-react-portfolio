@@ -1,5 +1,5 @@
 import React from "react";
-import Obee1 from '../../assets/Obee1.jpg';
+import Obee1 from '../Obee1.jpg';
 function About() {
   return (
     // <div id="about" className = "about1">

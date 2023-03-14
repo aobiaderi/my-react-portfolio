@@ -12,6 +12,6 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-Below is a link to the bootstrap-portfolio webpage:
+Below is a link to the react-portfolio webpage:
 
 * [react-portfolio](https://aobiaderi.github.io/my-react-portfolio/)
