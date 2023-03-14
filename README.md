@@ -1,4 +1,4 @@
-# bootstrap-portfolio
+# react-portfolio
 
 ## Description
 This portfolio has been created for my career as a front end web developer using react.It showcases my skills and talents to employers looking to fill a part-time or full-time position.
@@ -8,10 +8,10 @@ The react-portfolio webpage includes a navigation bar cards with placeholder ima
 
 The following image shows the web application's appearance and functionality:
 
-![react-portfolio webpage](images/bootstrap-portfolio-2022-12-12-18_31_15.png)
+![react-portfolio webpage]()
 
 ## Link
 
 Below is a link to the bootstrap-portfolio webpage:
 
-* [bootstrap-portfolio](https://aobiaderi.github.io/bootstrap-portfolio/)
+* [react-portfolio](https://aobiaderi.github.io/my-react-portfolio/)
