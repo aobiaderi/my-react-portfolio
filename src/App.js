@@ -10,7 +10,7 @@ function App() {
       <div>
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/my-react-portfolio" element={<Home />} />
         </Routes>
  
       </div>
