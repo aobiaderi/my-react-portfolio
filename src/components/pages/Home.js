@@ -12,7 +12,8 @@ function Home() {
         <br></br>
         <p className="lead">My name is Obiaderi Agbonrofo and I am a talented front end web developer.</p>
         <br></br>
-        <a className="btn btn-primary btn-lg" role="button" data-toggle="modal" data-target="#exampleModal">Hire Me</a>
+        <a href="https://github.com/aobiaderi" className="btn btn-primary btn-lg" role="button" data-toggle="modal" data-target="#exampleModal">Hire Me</a>
+
       </div>
 
       <div className="about-section" id="abt-section1">

@@ -29,7 +29,7 @@ const Contact = () => {
             <ion-icon name="logo-linkedin"></ion-icon>
           </a>
 
-          <a className="gh" href="https://aobiaderi.github.io/bootstrap-portfolio/" target="_blank">
+          <a className="gh" href="https://github.com/aobiaderi" target="_blank">
             <ion-icon name="logo-github"></ion-icon>
           </a>
 
