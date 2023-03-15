@@ -8,7 +8,7 @@ The react-portfolio webpage includes a navigation bar cards with placeholder ima
 
 The following image shows the web application's appearance and functionality:
 
-![react-portfolio webpage]()
+![react-portfolio webpage](./src/components/images/aobiaderi-github-io-my-react-portfolio.png)
 
 ## Link
 
