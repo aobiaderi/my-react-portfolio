@@ -14,26 +14,26 @@ const project6 = projects[5];
 
 return (
 <div className="container-fluid">
-  <div className="row justify-content-center">
-    <div className="col-sm-12 col-md-6 col-lg-4 mb-4">
-      <Project project={project1} index={0} />
-    </div>
-    <div className="col-sm-12 col-md-6 col-lg-4 mb-4">
-      <Project project={project2} index={1} />
-    </div>
-    <div className="col-sm-12 col-md-6 col-lg-4 mb-4">
-      <Project project={project3} index={2} />
-    </div>
-    <div className="col-sm-12 col-md-6 col-lg-4 mb-4">
-      <Project project={project4} index={3} />
-    </div>
-    <div className="col-sm-12 col-md-6 col-lg-4 mb-4">
-      <Project project={project5} index={4} />
-    </div>
-    <div className="col-sm-12 col-md-6 col-lg-4 mb-4">
-      <Project project={project6} index={5} />
-    </div>
-  </div>
+<div className="row justify-content-center">
+<div className="col-sm-12 col-md-6 col-lg-4 mb-4">
+<Project project={project1} index={0} />
+</div>
+<div className="col-sm-12 col-md-6 col-lg-4 mb-4">
+<Project project={project2} index={1} />
+</div>
+<div className="col-sm-12 col-md-6 col-lg-4 mb-4">
+<Project project={project3} index={2} />
+</div>
+<div className="col-sm-12 col-md-6 col-lg-4 mb-4">
+<Project project={project4} index={3} />
+</div>
+<div className="col-sm-12 col-md-6 col-lg-4 mb-4">
+<Project project={project5} index={4} />
+</div>
+<div className="col-sm-12 col-md-6 col-lg-4 mb-4">
+<Project project={project6} index={5} />
+</div>
+</div>
 </div>
 );
 }
